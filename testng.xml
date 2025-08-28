@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ECommerce Test Suite">
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+    <test name="Smoke Tests">
+        <classes>
+            <class name="tests.HomepageCategoryTest"/>
+            <class name="tests.CartTest"/>
+            <class name="tests.CartCheckoutTest"/>
+            <class name="tests.RegistrationNegativeTest"/>
+        </classes>
+    </test>
+</suite>
+

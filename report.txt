@@ -1,0 +1,40 @@
+
+--- Test Started ---
+✅ ADDED: ABSOLUE EYE PRECIOUS CELLS | Price: $89.00
+✅ ADDED: NEW LADIES HIGH WEDGE HEEL TOE THONG DIAMANTE FLIP FLOP SANDALS | Price: $26.00
+--- Test Ended ---
+
+--- Test Started ---
+Found 16 products on the page
+❌ SKIPPED: BRUNETTE EXPRESSIONS CONDITIONER | Price: $24.00 | URL: https://automationteststore.com/index.php?rt=product/product&product_id=72 | Image: https://automationteststore.com/image/thumbnails/18/6b/demo_product22_jpg-100031-250x250.jpg | Reason: Out of Stock
+✅ ADDED: ABSOLUE EYE PRECIOUS CELLS | Price: $89.00 | URL: https://automationteststore.com/index.php?rt=product/product&product_id=65 | Image: https://automationteststore.com/image/thumbnails/18/6a/demo_product15_1_jpg-100010-250x250.jpg
+✅ ADDED: SKINSHEEN BRONZER STICK | Price: $29.50 | URL: https://automationteststore.com/index.php?rt=product/product&product_id=50 | Image: https://automationteststore.com/image/thumbnails/18/6f/demo_product01_jpg-100089-250x250.jpg
+Total products added: 2
+--- Test Ended ---
+
+--- Test Started ---
+Found 16 products on the page
+✅ ADDED: ABSOLUE EYE PRECIOUS CELLS | Price: $89.00 | URL: https://automationteststore.com/index.php?rt=product/product&product_id=65 | Image: https://automationteststore.com/image/thumbnails/18/6a/demo_product15_1_jpg-100010-250x250.jpg
+✅ ADDED: BENEFIT BELLA BAMBA | Price: $28.00 | URL: https://automationteststore.com/index.php?rt=product/product&product_id=52 | Image: https://automationteststore.com/image/thumbnails/18/6b/demo_product02_3_jpg-100029-250x250.jpg
+Total products added: 2
+--- Test Ended ---
+
+--- Test Started ---
+Found 16 products on the page
+✅ ADDED: ABSOLUE EYE PRECIOUS CELLS | Price: $89.00 | URL: https://automationteststore.com/index.php?rt=product/product&product_id=65 | Image: https://automationteststore.com/image/thumbnails/18/6a/demo_product15_1_jpg-100010-250x250.jpg
+✅ ADDED: TROPIQUES MINERALE LOOSE BRONZER | Price: $38.50 | URL: https://automationteststore.com/index.php?rt=product/product&product_id=53 | Image: https://automationteststore.com/image/thumbnails/18/6f/demo_product03_jpg-100094-250x250.jpg
+Total products added: 2
+--- Test Ended ---
+===== TEST SUITE STARTED =====
+verifyCategoriesAndProducts PASSED ✅
+
+--- Test Started ---
+Found 16 products on the page
+✅ ADDED: ACQUA DI GIO POUR HOMME | Price: $45.00 | URL: https://automationteststore.com/index.php?rt=product/product&product_id=80 | Image: https://automationteststore.com/image/thumbnails/18/6a/demo_product30_jpg-100014-250x250.jpg
+
+Total products added: 1
+selectTwoRandomProducts PASSED ✅
+--- Test Ended ---
+completeCheckoutFlow PASSED ✅
+testRegistrationWithMissingPassword PASSED ✅
+===== TEST SUITE FINISHED =====
