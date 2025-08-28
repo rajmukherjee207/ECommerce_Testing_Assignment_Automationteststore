@@ -35,3 +35,17 @@ Automated test suite for testing an e-commerce website (https://automationtestst
 - **ChromeDriver** (Browser automation)
 
 ## 📁 Project Structure
+ECommerce_Testing_Assignment/
+│
+├── src/test/java/tests/
+│ ├── CartCheckoutTest.java # Complete checkout flow with registration
+│ ├── CartTest.java # Product selection and cart addition
+│ ├── HomepageCategoryTest.java # Category navigation and verification
+│ └── RegistrationNegativeTest.java # Negative scenario testing
+│
+├── testdata.csv # User registration test data
+├── screenshots/ # Automatic screenshot storage (created)
+├── report.txt # Detailed test execution log (created)
+├── pom.xml # Maven dependencies and configuration
+├── testng.xml # TestNG test suite configuration
+└── README.md # This file
