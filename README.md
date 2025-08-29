@@ -35,6 +35,8 @@ Automated test suite for testing an e-commerce website (https://automationtestst
 - **ChromeDriver** (Browser automation)
 
 ## 📁 Project Structure
+```bash
+
 ECommerce_Testing_Assignment/
 │
 ├── src/test/java/tests/
@@ -49,3 +51,4 @@ ECommerce_Testing_Assignment/
 ├── pom.xml # Maven dependencies and configuration
 ├── testng.xml # TestNG test suite configuration
 └── README.md # This file
+```
